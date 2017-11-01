@@ -7,6 +7,7 @@ public class Celsius extends Temperature
     public Celsius(float t)
     {
         //test
+        //This is a test
         super(t);
         this.t = t;
     }
